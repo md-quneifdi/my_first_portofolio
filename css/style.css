@@ -14,9 +14,6 @@ body{
     font-family: "Work Sans" , sans-serif;
 }
 
- /* عندما يكون عرض العنصر اكبر من عرض 
-الصفحه يحصل سكرول في الصفحه او في الموقع */
-
 .container {
     padding-left: 15px;
     padding-right: 15px;
